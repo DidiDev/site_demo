@@ -3,6 +3,12 @@
 <head>
 	<meta charset="utf-8">
 	<title>Site Démo</title>
+	<style type="text/css">
+		h1{
+			font-style: 30px;
+			background: yellow;
+		}
+	</style>
 </head>
 <body>
 	<h1>Bonjour à tous !!!</h1>
