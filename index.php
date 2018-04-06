@@ -5,6 +5,6 @@
 	<title>Site Démo</title>
 </head>
 <body>
-	<h1>Bonjour !!!</h1>
+	<h1>Bonjour à tous !!!</h1>
 </body>
 </html>
